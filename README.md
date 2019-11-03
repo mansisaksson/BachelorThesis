@@ -1,4 +1,4 @@
-# Exjobb
+# Bachelor Thesis
 
 Coded attached to My Bachelor Thesis.
 This thesis examined the consequences of trying to synchronize physics simulations over the network.
